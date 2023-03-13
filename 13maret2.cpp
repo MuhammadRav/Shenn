@@ -15,7 +15,7 @@ string status (double d)
 string status2(double r, double n)
 {
     if (r >= 60 && n >= 70)
-        return "lulus";
+        return "LULUS";
     else
         return "gagal";
 }
