@@ -3,14 +3,14 @@ using namespace std;
 
 int main (){
 
-   string combo, aaa;
+   string celana, lemari;
 
-   cout<<"masukkan combo magic chess mu = ";
-   getline(cin, combo);
+   cout<<"masukkan celana kedalam lemari? = ";
+   getline(cin, celana);
 
-    aaa = "gunner" ? "jago " : "cupu";
+    lemari = "ya" ? "pintar " : "salah";
 
-    cout<<"lu "<<aaa;
+    cout<<"kamu "<<lemari;
 
 
 
